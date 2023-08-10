@@ -1,0 +1,10 @@
+.tit{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+.sec1{
+    margin: auto;
+    text-align: center;
+
+}
